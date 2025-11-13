@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799419869825",
+    "project_id": "medhanit-online-project",
+    "storage_bucket": "medhanit-online-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799419869825:android:0ad61507fd6970fa6efb80",
+        "android_client_info": {
+          "package_name": "com.medhanit.online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlsK2Jhb8fkbMRS9YONxL1Ba7Jk3b1zkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
